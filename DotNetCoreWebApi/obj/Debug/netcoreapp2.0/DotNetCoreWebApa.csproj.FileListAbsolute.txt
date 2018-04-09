@@ -1,0 +1,11 @@
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\bin\Debug\netcoreapp2.0\DotNetCoreWebApa.deps.json
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\bin\Debug\netcoreapp2.0\DotNetCoreWebApa.runtimeconfig.json
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\bin\Debug\netcoreapp2.0\DotNetCoreWebApa.runtimeconfig.dev.json
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\bin\Debug\netcoreapp2.0\DotNetCoreWebApa.dll
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\obj\Debug\netcoreapp2.0\DotNetCoreWebApa.csproj.CoreCompileInputs.cache
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\obj\Debug\netcoreapp2.0\DotNetCoreWebApa.AssemblyInfoInputs.cache
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\obj\Debug\netcoreapp2.0\DotNetCoreWebApa.AssemblyInfo.cs
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\bin\Debug\netcoreapp2.0\DotNetCoreWebApa.pdb
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\obj\Debug\netcoreapp2.0\DotNetCoreWebApa.csprojResolveAssemblyReference.cache
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\obj\Debug\netcoreapp2.0\DotNetCoreWebApa.dll
+D:\YRF\DotNetCoreWebApa\DotNetCoreWebApa\obj\Debug\netcoreapp2.0\DotNetCoreWebApa.pdb
